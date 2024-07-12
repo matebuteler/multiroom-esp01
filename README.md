@@ -12,4 +12,6 @@ Audio is streamed via ESP-NOW, MP3-codified. Based on https://github.com/espress
 # Image Gallery
 Concept sketch
 
+# Env variables
+- IDF_PATH : See https://github.com/espressif/ESP8266_RTOS_SDK/blob/master/README.md
 ![Concept sketch](Sketches%20&%20Diagrams/First%20Sketch%20(Concept).png)
