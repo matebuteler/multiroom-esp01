@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := espnow_example
+PROJECT_NAME := i2c
 
 include $(IDF_PATH)/make/project.mk
 
